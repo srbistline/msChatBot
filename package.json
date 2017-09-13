@@ -1,0 +1,28 @@
+{
+  "name": "mschatbot",
+  "version": "1.0.0",
+  "description": "Build a bot in Node.js on Microsoft Bot Framework",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srbistline/msChatBot.git"
+  },
+  "keywords": [
+    "bot",
+    "slack",
+    "whatever"
+  ],
+  "author": "Steve Bistline",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srbistline/msChatBot/issues"
+  },
+  "homepage": "https://github.com/srbistline/msChatBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.1",
+    "restify": "^5.2.0"
+  }
+}
